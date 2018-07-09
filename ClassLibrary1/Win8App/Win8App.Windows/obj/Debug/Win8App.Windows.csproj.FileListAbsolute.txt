@@ -1,0 +1,15 @@
+C:\Users\Al\Dropbox\Programming\Xamarin\ClassLibrary1\Win8App\Win8App.Windows\bin\Debug\App.xbf
+C:\Users\Al\Dropbox\Programming\Xamarin\ClassLibrary1\Win8App\Win8App.Windows\bin\Debug\MainPage.xbf
+C:\Users\Al\Dropbox\Programming\Xamarin\ClassLibrary1\Win8App\Win8App.Windows\bin\Debug\Win8App.Windows.xr.xml
+C:\Users\Al\Dropbox\Programming\Xamarin\ClassLibrary1\Win8App\Win8App.Windows\bin\Debug\Win8App.Windows.exe
+C:\Users\Al\Dropbox\Programming\Xamarin\ClassLibrary1\Win8App\Win8App.Windows\obj\Debug\App.g.i.cs
+C:\Users\Al\Dropbox\Programming\Xamarin\ClassLibrary1\Win8App\Win8App.Windows\obj\Debug\App.g.cs
+C:\Users\Al\Dropbox\Programming\Xamarin\ClassLibrary1\Win8App\Win8App.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Al\Dropbox\Programming\Xamarin\ClassLibrary1\Win8App\Win8App.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Al\Dropbox\Programming\Xamarin\ClassLibrary1\Win8App\Win8App.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Al\Dropbox\Programming\Xamarin\ClassLibrary1\Win8App\Win8App.Windows\obj\Debug\App.xaml
+C:\Users\Al\Dropbox\Programming\Xamarin\ClassLibrary1\Win8App\Win8App.Windows\obj\Debug\MainPage.xaml
+C:\Users\Al\Dropbox\Programming\Xamarin\ClassLibrary1\Win8App\Win8App.Windows\obj\Debug\App.xbf
+C:\Users\Al\Dropbox\Programming\Xamarin\ClassLibrary1\Win8App\Win8App.Windows\obj\Debug\MainPage.xbf
+C:\Users\Al\Dropbox\Programming\Xamarin\ClassLibrary1\Win8App\Win8App.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Al\Dropbox\Programming\Xamarin\ClassLibrary1\Win8App\Win8App.Windows\obj\Debug\Win8App.Windows.pdb

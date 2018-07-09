@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Jarvis.SignUp">
+	 	   <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="Auto"/>
+
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            
+            
+            <RowDefinition Height="36*"/>
+            <RowDefinition Height="29*"/>
+
+
+        </Grid.RowDefinitions>
+
+        <Label  HorizontalOptions="CenterAndExpand"  VerticalOptions="Start" 
+        Text ="Log in with" FontSize="50" Grid.Row="0"  />
+
+        <StackLayout Orientation="Horizontal" Grid.Row="1" >
+       		<Button Text="facebook"  BackgroundColor= "Blue" HorizontalOptions="Start"/>
+        	<Button Text ="google" BackgroundColor= "Red" HorizontalOptions="End"/>
+        </StackLayout>
+<!--          <Label  HorizontalOptions="End"  VerticalOptions="Start" 
+        Text ="Drive anywhere." FontSize="Small" Grid.Row="1"  />
+-->
+<StackLayout Orientation= "Vertical" Grid.Row="2">
+<TextCell/>
+<TextCell/>
+<TextCell/>
+</StackLayout>
+        <Label x:Name="Tbx_Logo"  HorizontalOptions="End"  VerticalOptions="End" 
+        Text ="JARVISh" FontSize="Large" Grid.Row="4" >
+
+<!--         <Label.GestureRecognizers>
+         <TapGestureRecognizer Tapped="OnLabelClicked"/>
+    	</Label.GestureRecognizers>-->
+          </Label>        
+
+            <Label  HorizontalOptions="End"  VerticalOptions="Start" 
+        Text ="Drive anywhere." FontSize="Small" Grid.Row="5"  />
+
+          
+    </Grid>
+</ContentPage>

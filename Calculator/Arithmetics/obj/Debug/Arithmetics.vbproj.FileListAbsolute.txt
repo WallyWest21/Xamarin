@@ -1,0 +1,6 @@
+C:\Users\Al\Dropbox\Programming\Xamarin\Calculator\Arithmetics\bin\Debug\Arithmetics.dll
+C:\Users\Al\Dropbox\Programming\Xamarin\Calculator\Arithmetics\bin\Debug\Arithmetics.pdb
+C:\Users\Al\Dropbox\Programming\Xamarin\Calculator\Arithmetics\bin\Debug\Arithmetics.xml
+C:\Users\Al\Dropbox\Programming\Xamarin\Calculator\Arithmetics\obj\Debug\Arithmetics.dll
+C:\Users\Al\Dropbox\Programming\Xamarin\Calculator\Arithmetics\obj\Debug\Arithmetics.xml
+C:\Users\Al\Dropbox\Programming\Xamarin\Calculator\Arithmetics\obj\Debug\Arithmetics.pdb

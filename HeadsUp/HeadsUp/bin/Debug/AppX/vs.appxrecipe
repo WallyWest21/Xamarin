@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DIGITAL-PC</Machine>
+    <WindowsUser>Al</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>0ae85cc7-dd51-4dd6-86c2-f6073740d759</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUp\HeadsUp\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>CD0271DC5BA3488ACC4C437E8798BFF0745486FCDCCADF070B40C96F580C08F1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0ae85cc7-dd51-4dd6-86c2-f6073740d759_1.0.0.0_neutral__e99vbfg2mhg2c</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0ae85cc7-dd51-4dd6-86c2-f6073740d759_e99vbfg2mhg2c!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0ae85cc7-dd51-4dd6-86c2-f6073740d759</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Al</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUp\HeadsUp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-10T22:28:59.619</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUp\HeadsUp\bin\Debug\HeadsUp.exe">
+      <PackagePath>HeadsUp.exe</PackagePath>
+      <Modified>2015-04-10T22:43:16.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUp\HeadsUp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-25T22:39:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUp\HeadsUp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-25T22:39:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUp\HeadsUp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-25T22:39:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUp\HeadsUp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-25T22:39:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUp\HeadsUp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-10T22:28:58.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUp\HeadsUp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-10T22:38:29.961</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUp\HeadsUp\bin\Debug\HeadsUp.xr.xml">
+      <PackagePath>HeadsUp.xr.xml</PackagePath>
+      <Modified>2015-04-10T22:28:57.988</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUp\HeadsUp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-10T22:28:59.178</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

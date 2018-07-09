@@ -1,0 +1,11 @@
+C:\Users\Al\Dropbox\Programming\Xamarin\Hey DJ\Hey DJ\Hey_DJ.WinPhone\obj\Debug\Hey_DJ.WinPhone.csprojResolveAssemblyReference.cache
+C:\Users\Al\Dropbox\Programming\Xamarin\Hey DJ\Hey DJ\Hey_DJ.WinPhone\obj\Debug\App.g.i.cs
+C:\Users\Al\Dropbox\Programming\Xamarin\Hey DJ\Hey DJ\Hey_DJ.WinPhone\obj\Debug\App.g.cs
+C:\Users\Al\Dropbox\Programming\Xamarin\Hey DJ\Hey DJ\Hey_DJ.WinPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Al\Dropbox\Programming\Xamarin\Hey DJ\Hey DJ\Hey_DJ.WinPhone\obj\Debug\MainPage.g.cs
+C:\Users\Al\Dropbox\Programming\Xamarin\Hey DJ\Hey DJ\Hey_DJ.WinPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Al\Dropbox\Programming\Xamarin\Hey DJ\Hey DJ\Hey_DJ.WinPhone\obj\Debug\App.xaml
+C:\Users\Al\Dropbox\Programming\Xamarin\Hey DJ\Hey DJ\Hey_DJ.WinPhone\obj\Debug\MainPage.xaml
+C:\Users\Al\Dropbox\Programming\Xamarin\Hey DJ\Hey DJ\Hey_DJ.WinPhone\obj\Debug\App.xbf
+C:\Users\Al\Dropbox\Programming\Xamarin\Hey DJ\Hey DJ\Hey_DJ.WinPhone\obj\Debug\MainPage.xbf
+C:\Users\Al\Dropbox\Programming\Xamarin\Hey DJ\Hey DJ\Hey_DJ.WinPhone\obj\Debug\XamlSaveStateFile.xml

@@ -1,0 +1,15 @@
+C:\Users\Al\Dropbox\Programming\Xamarin\TaskList\TaskList\bin\Debug\TaskList.dll
+C:\Users\Al\Dropbox\Programming\Xamarin\TaskList\TaskList\bin\Debug\TaskList.pdb
+C:\Users\Al\Dropbox\Programming\Xamarin\TaskList\TaskList\bin\Debug\TaskList.TaskList.apk
+C:\Users\Al\Dropbox\Programming\Xamarin\TaskList\TaskList\bin\Debug\TaskList.TaskList-Signed.apk
+C:\Users\Al\Dropbox\Programming\Xamarin\TaskList\TaskList\obj\Debug\TaskList.csprojResolveAssemblyReference.cache
+C:\Users\Al\Dropbox\Programming\Xamarin\TaskList\TaskList\obj\Debug\TaskList.dll
+C:\Users\Al\Dropbox\Programming\Xamarin\TaskList\TaskList\obj\Debug\TaskList.pdb
+C:\Users\Al\Dropbox\Programming\Xamarin\TaskList\TaskList\obj\Debug\android\bin\TaskList.TaskList.apk
+C:\Users\Al\Dropbox\Programming\Xamarin\TaskList\TaskList\obj\Debug\res\layout\main.xml
+C:\Users\Al\Dropbox\Programming\Xamarin\TaskList\TaskList\obj\Debug\res\values\strings.xml
+C:\Users\Al\Dropbox\Programming\Xamarin\TaskList\TaskList\obj\Debug\res\drawable\icon.png
+C:\Users\Al\Dropbox\Programming\Xamarin\TaskList\TaskList\obj\Debug\R.cs.flag
+C:\Users\Al\Dropbox\Programming\Xamarin\TaskList\TaskList\obj\Debug\uploadflags.txt
+C:\Users\Al\Dropbox\Programming\Xamarin\TaskList\TaskList\obj\Debug\TaskList.dll.mdb
+C:\Users\Al\Dropbox\Programming\Xamarin\TaskList\TaskList\bin\Debug\TaskList.dll.mdb

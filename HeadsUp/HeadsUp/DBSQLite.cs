@@ -1,0 +1,6 @@
+﻿namespace HeadsUp
+{
+    class DBSQLite
+    {
+    }
+}

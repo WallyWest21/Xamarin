@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="NewJarvis.Welcome">
+	<ContentPage.Content>
+		<Grid>
+         	<Grid.RowDefinitions>
+	            <RowDefinition Height="15*"/>
+	            <RowDefinition Height="1*"/>
+	           	<RowDefinition Height="0.5*"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+	            <ColumnDefinition Width="10*"/>
+   	           	<ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Text="JARVIS" FontSize="Large" FontFamily="Helvetica"
+            Grid.Row="1" Grid.Column="0" 
+            HorizontalOptions="End" VerticalOptions="End" >
+           
+            </Label>
+
+            <Label Text="insert a slogan" FontSize="Small" FontFamily="Helvetica"
+            Grid.Row="2" Grid.Column="0"
+            HorizontalOptions="End" VerticalOptions="Start" />
+       </Grid>
+
+	</ContentPage.Content>
+</ContentPage>

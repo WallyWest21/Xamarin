@@ -1,0 +1,2 @@
+C:\Users\Al\Dropbox\Programming\Xamarin\Hey DJ\Hey DJ\Hey_DJ.WinPhone\Hey_DJ.WinPhone.csproj;arm
+C:\Users\Al\Dropbox\Programming\Xamarin\Hey DJ\Hey DJ\Hey_DJ\Hey_DJ.csproj;neutral

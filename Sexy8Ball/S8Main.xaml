@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Sexy8Ball.S8Main">
+	<ContentPage.Content>
+	<Grid BackgroundColor="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="50*" />
+        </Grid.RowDefinitions>
+
+        <Label Text="Let's" Grid.Row="0" 
+        x:Name="lb_Actions"
+        HorizontalOptions ="Center"
+        HorizontalTextAlignment = "Center"
+        VerticalOptions="EndAndExpand"
+        FontSize="80"
+        FontFamily ="Helvetica Light"
+        TextColor="White"
+
+        />
+
+        <Label Text="Play" Grid.Row="1"
+        x:Name="lb_BodyParts"
+  		HorizontalOptions ="Center"
+  		VerticalOptions="StartAndExpand"
+  		FontSize="80"
+  		FontFamily ="Helvetica Light"
+
+  		TextColor="White"
+  		HorizontalTextAlignment="Center"
+  		/>
+
+        <Button Text="touch me" Grid.Row="2" 
+        x:Name="btn_TouchMe"
+        HorizontalOptions ="Center"
+        VerticalOptions="CenterAndExpand"
+        FontSize="40"
+        FontFamily ="Helvetica Light"
+     	BackgroundColor ="Black"
+     	TextColor ="White"
+        Clicked="OnButtonClicked"
+        BorderWidth="1"
+        BorderColor ="White"
+      
+       
+        />
+
+        </Grid>
+
+	</ContentPage.Content>
+</ContentPage>

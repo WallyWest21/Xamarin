@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:local="clr-namespace:Hey_DJ;assembly=Hey_DJ"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Hey_DJ.MessagePage" BackgroundColor="#FFC107" Title="Hey DJ!" Padding="0">
+
+	<Label Text="Hey DJ" VerticalOptions="Start" HorizontalOptions="Center" />
+
+	<StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" >
+		<ScrollView Orientation="Vertical" x:Name ="MyScrollView" BackgroundColor="#FFC107" VerticalOptions="FillAndExpand">
+	    
+		    <StackLayout Orientation="Horizontal"  VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+		      <Label Text="{x:Static local:App.Message}"   BackgroundColor="#FFC107" TextColor="Black" LineBreakMode="WordWrap"
+		               	BindingContext="{x:Reference Name=sld_FontSize}" FontSize="{Binding Path=Value}"
+		            	VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" FontFamily="Helvetica Light"/>
+		    </StackLayout>
+
+  	  	</ScrollView>
+
+		<StackLayout BackgroundColor="Black" VerticalOptions="EndAndExpand">  
+
+			<Slider x:Name="sld_FontSize" HorizontalOptions="FillAndExpand" BackgroundColor="Black"  Maximum="200" Minimum="50"  Value="100"/>
+		  	<StackLayout Orientation="Horizontal" VerticalOptions="End" BackgroundColor="Black" HorizontalOptions="FillAndExpand"> 
+		      
+			    <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand" BackgroundColor="Black">
+			      <Label Text="YES" VerticalTextAlignment="Center" TextColor="White" BackgroundColor="Black"/>
+			      <Switch  HorizontalOptions="Center" />
+			    </StackLayout>
+			    
+			     <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand" BackgroundColor="Black">
+			      <Label Text="NO" VerticalTextAlignment="Center" TextColor="White" BackgroundColor="Black"/>
+			      <Switch  HorizontalOptions="Center" />
+			    </StackLayout>
+			    
+			    <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand" BackgroundColor="Black">
+  			      <Label Text="MAYBE" VerticalTextAlignment="Center" TextColor="White" BackgroundColor="Black"/>
+			      <Switch  HorizontalOptions="Center" />
+ 			    </StackLayout>
+
+	   		</StackLayout>  
+	   		  
+	  	</StackLayout>
+    
+  </StackLayout>
+  
+</ContentPage>

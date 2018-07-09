@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+ x:Class="ApplicationCatalog.CATIA_3D">
+	
+	    <ContentPage.Content>
+
+<ListView  x:Name="MyListview3D" RowHeight="100" >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+
+                    <ViewCell>
+                        <StackLayout  BackgroundColor="Black" >
+     			<Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="100*"/>
+                        <RowDefinition Height="100*"/>
+                       
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100" />
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="50" />
+                    </Grid.ColumnDefinitions>
+
+                   <Label Text="{Binding VersionNo}" Grid.Row="0" Grid.Column="2" 
+                    HorizontalOptions="End" VerticalOptions="CenterAndExpand"
+                    TextColor="Silver" FontSize="Small" />
+
+                    <Label Text="{Binding Name}" Grid.Row="0" Grid.Column="0" Grid.RowSpan="2"
+                    HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"
+                    TextColor="#FFD2B48C"   FontSize="40" />
+
+                    <Label Text="BOM Export 2D" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2"
+                    HorizontalOptions="Start" VerticalOptions="EndAndExpand"
+                    TextColor="White"   FontSize="Large" />
+
+                      <Label Text="This will export any 2D CATIA  table into Excel" Grid.Row="1" Grid.Column="1" 
+                    HorizontalOptions="Start" VerticalOptions="StartAndExpand"
+                    TextColor="White"   FontSize="Small" />
+                </Grid>
+       			 </StackLayout>
+
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+	</ContentPage.Content>
+
+
+</ContentPage>
+
+
+

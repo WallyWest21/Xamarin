@@ -1,0 +1,6 @@
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUp\PCL_HeadsUp\bin\Debug\PCL_HeadsUp.dll
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUp\PCL_HeadsUp\bin\Debug\PCL_HeadsUp.pdb
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUp\PCL_HeadsUp\bin\Debug\SQLite-net.dll
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUp\PCL_HeadsUp\bin\Debug\SQLitePCL.raw.dll
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUp\PCL_HeadsUp\obj\Debug\PCL_HeadsUp.dll
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUp\PCL_HeadsUp\obj\Debug\PCL_HeadsUp.pdb

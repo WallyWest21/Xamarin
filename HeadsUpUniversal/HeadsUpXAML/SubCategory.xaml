@@ -1,0 +1,13 @@
+﻿<Window x:Name="Subcategory" x:Class="HeadsUpXAML.SubCategory"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HeadsUpXAML"
+        mc:Ignorable="d"
+        Title="SubCategory" Height="300" Width="300" WindowStartupLocation="CenterScreen" WindowState="Maximized">
+    <Grid>
+        <Label x:Name="label" Content="Label" Background="#FF2D3DE6" Foreground="#FFE8DEDE" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="66.667" MouseDown="label_MouseDown"/>
+
+    </Grid>
+</Window>

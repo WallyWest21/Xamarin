@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" 
+package="Hey_DJ.Hey_DJ" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="15" />
+  <application
+      android:theme="@style/MyMaterialTheme"
+        android:label="Hey DJ!">
+
+    
+  </application>
+</manifest>

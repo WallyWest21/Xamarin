@@ -1,0 +1,29 @@
+﻿<Page x:Name="MainPage1"
+    x:Class="HeadsUp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HeadsUp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Loaded="MainPage1_Loaded">
+
+    <Grid x:Name="MainGrid" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="333*"/>
+            <ColumnDefinition Width="357*"/>
+            <ColumnDefinition Width="370*"/>
+            <ColumnDefinition Width="306*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="142*"/>
+            <RowDefinition Height="261*"/>
+            <RowDefinition Height="160*"/>
+            <RowDefinition Height="205*"/>
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="tblk_Title" HorizontalAlignment="Left" Margin="91,38,0,0" TextWrapping="Wrap" Text="Heads Up" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="69" Width="530" FontSize="56"/>
+        <TextBlock x:Name="tblk_Word" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="1" Grid.RowSpan="2" TextWrapping="Wrap" Text="TextBlock" FontSize="106.667" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Button x:Name="button" Content="Right" Grid.Column="2" HorizontalAlignment="Left" Height="191" Margin="7,7,-3,0" Grid.Row="3" VerticalAlignment="Top" Width="366" Background="#FF11F950" FontSize="64" Click="button_Click"/>
+        <Button x:Name="button1" Content="Wrong" Grid.Column="1" Grid.Row="3" Margin="0,10,0,7" Height="188" Width="350" Background="#FFF70F0F" FontSize="64"/>
+
+    </Grid>
+</Page>

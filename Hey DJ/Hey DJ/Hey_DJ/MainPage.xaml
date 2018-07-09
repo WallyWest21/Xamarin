@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Hey_DJ.MainPage" Title="Hey DJ!">
+  <!--<Label Text="Hey DJ" VerticalOptions="Start" HorizontalOptions="Start" />-->
+
+  <!--<ContentPage.Padding>
+    <OnPlatform x:TypeArguments="Thickness" iOS="20, 40, 20, 20" Android="20, 20, 20, 20" WinPhone="20, 20, 20, 20" />
+  </ContentPage.Padding>-->
+  
+  <!--<ContentPage.Content>-->
+
+  <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Orientation="Vertical" >
+    <ScrollView VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Orientation="Vertical" >
+
+    <StackLayout x:Name ="sl_MainLayout" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Orientation="Vertical" >
+      <Button x:Name="DJText" Text="HEY DJ, CAN U PLAY SOME REGGAETON?" VerticalOptions="Center" HorizontalOptions="CenterAndExpand" Clicked="ShowMessage" FontSize="Large" BackgroundColor="White" TextColor="Black" />
+      <Button Text="HEY DJ, THE MUSIC IS SO AMAZING!" VerticalOptions="Center" HorizontalOptions="CenterAndExpand" Clicked="ShowMessage" FontSize="Large" BackgroundColor="White" TextColor="Black"/>
+      <Button Text="HEY DJ, CAN U PLAY SOME LATIN MUSIC?" VerticalOptions="Center" HorizontalOptions="CenterAndExpand" Clicked="ShowMessage" FontSize="Large" BackgroundColor="White" TextColor="Black"/>
+      <Button Text="HEY DJ, CAN U PLAY SOME OLD SCHOOL HIP HOP?" VerticalOptions="Center" HorizontalOptions="CenterAndExpand" Clicked="ShowMessage" FontSize="Large" BackgroundColor="White" TextColor="Black"/>
+      <Button Text="HEY DJ, CAN U PLEASE STOP PLAYING WHACK-ASS MUSIC PLEASE?" VerticalOptions="Center" HorizontalOptions="CenterAndExpand" Clicked="ShowMessage" FontSize="Large" BackgroundColor="White" TextColor="Black"/>
+      <Button Text="HEY DJ, YOUR MUSIC SELECTION IS WORST THAN LISTENING TO AM RADIO!!!" VerticalOptions="Center" HorizontalOptions="CenterAndExpand" Clicked="ShowMessage" FontSize="Large" BackgroundColor="White" TextColor="Black"/>
+    </StackLayout>
+    </ScrollView>
+
+  
+    
+    <StackLayout Orientation="Horizontal">
+      <Entry x:Name ="entry_NewMessage" Placeholder="Add new message for the DJ" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Start" Keyboard="Chat"/>
+      <Button x:Name ="btn_AddMessage" Text= "Add" HorizontalOptions="End" VerticalOptions="Center" Clicked="AddNewMessage" />
+   
+    </StackLayout> 
+    
+  </StackLayout>
+  <!--</ContentPage.Content>-->
+</ContentPage>

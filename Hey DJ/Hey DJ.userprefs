@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Hey DJ\Hey_DJ.Droid\Hey_DJ.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.Nexus 4 (Marshmallow)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hey DJ\Hey_DJ.Droid\Resources\values\colors.xml">
+    <Files>
+      <File FileName="Hey DJ\Hey_DJ.Droid\Resources\values\colors.xml" Line="8" Column="3" />
+      <File FileName="Hey DJ\Hey_DJ.Droid\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="Hey DJ\Hey_DJ\App.cs" Line="1" Column="1" />
+      <File FileName="Hey DJ\Hey_DJ\MainPage.xaml" Line="1" Column="1" />
+      <File FileName="Hey DJ\Hey_DJ\MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Hey DJ\Hey_DJ.Droid\Resources\values\styles.xml" Line="1" Column="1" />
+      <File FileName="Hey DJ\Hey_DJ.Droid\packages.config" Line="1" Column="1" />
+      <File FileName="Hey DJ\Hey_DJ.Droid\Resources\values-v21\styles.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Hey__DJ.Droid AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

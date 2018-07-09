@@ -1,0 +1,16 @@
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUpUniversal\HeadsUpXAML\bin\Debug\HeadsUpXAML.exe.config
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUpUniversal\HeadsUpXAML\bin\Debug\HeadsUpXAML.exe
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUpUniversal\HeadsUpXAML\bin\Debug\HeadsUpXAML.pdb
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUpUniversal\HeadsUpXAML\obj\Debug\HeadsUpXAML.csprojResolveAssemblyReference.cache
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUpUniversal\HeadsUpXAML\obj\Debug\MainWindow.g.cs
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUpUniversal\HeadsUpXAML\obj\Debug\App.g.cs
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUpUniversal\HeadsUpXAML\obj\Debug\HeadsUpXAML_MarkupCompile.cache
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUpUniversal\HeadsUpXAML\obj\Debug\HeadsUpXAML_MarkupCompile.lref
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUpUniversal\HeadsUpXAML\obj\Debug\MainWindow.baml
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUpUniversal\HeadsUpXAML\obj\Debug\HeadsUpXAML.g.resources
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUpUniversal\HeadsUpXAML\obj\Debug\HeadsUpXAML.Properties.Resources.resources
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUpUniversal\HeadsUpXAML\obj\Debug\HeadsUpXAML.csproj.GenerateResource.Cache
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUpUniversal\HeadsUpXAML\obj\Debug\HeadsUpXAML.exe
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUpUniversal\HeadsUpXAML\obj\Debug\HeadsUpXAML.pdb
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUpUniversal\HeadsUpXAML\obj\Debug\SubCategory.g.cs
+C:\Users\Al\Dropbox\Programming\Xamarin\HeadsUpUniversal\HeadsUpXAML\obj\Debug\SubCategory.baml

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Jarvis.Welcome">
+	   <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="55*"/>
+            <RowDefinition Height="520*"/>
+            <RowDefinition Height="36*"/>
+            <RowDefinition Height="29*"/>
+        </Grid.RowDefinitions>
+        
+        <Label x:Name="Tbx_Logo"  HorizontalOptions="End"  VerticalOptions="End" 
+        Text ="JARVIS" FontSize="Large" Grid.Row="2" >
+
+<!--         <Label.GestureRecognizers>
+         <TapGestureRecognizer Tapped="OnLabelClicked"/>
+    	</Label.GestureRecognizers>-->
+          </Label>        
+
+            <Label x:Name="Tbx_Slogan"  HorizontalOptions="End"  VerticalOptions="Start" 
+        Text ="Drive anywhere." FontSize="Small" Grid.Row="3"  />
+
+
+    </Grid>
+</ContentPage>
