@@ -1,0 +1,2 @@
+android.app.Application
+ef_Xamarin_sqlite.ef_Xamarin_sqlite

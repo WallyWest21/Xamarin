@@ -1,0 +1,41 @@
+﻿<Page
+    x:Class="Jarvis.BlankPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Jarvis"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="187*"/>
+            <RowDefinition Height="57*"/>
+            <RowDefinition Height="101*"/>
+            <RowDefinition Height="295*"/>
+        </Grid.RowDefinitions>
+      
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Center"  TextWrapping="Wrap" Text="Log in with" VerticalAlignment="Center" FontSize="36" Margin="112,72,112,71.083" />
+        <Grid  Grid.RowSpan="2" Margin="0,120,0,57.167">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100*"/>
+                <ColumnDefinition Width="99*"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="facebook" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Blue" FontSize="24" />
+            <TextBlock Text="google" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1" Foreground="Crimson" FontSize="24" />
+        </Grid>
+        <StackPanel Orientation="Vertical" Grid.Row="2">
+            <TextBlock x:Name="textBlock1" HorizontalAlignment="Center"  Grid.Row="2" TextWrapping="Wrap" Text="or" VerticalAlignment="Top" FontSize="24" />
+            <TextBlock x:Name="textBlock2" HorizontalAlignment="Center"  Grid.Row="2" TextWrapping="Wrap" Text="sign up " VerticalAlignment="Top"  FontSize="24"/>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="3">
+            <TextBox x:Name="email" HorizontalAlignment="Stretch"  Grid.Row="2" TextWrapping="Wrap" Text="email" VerticalAlignment="Top" FontSize="24" Margin="5"/>
+            <TextBox x:Name="password" HorizontalAlignment="Stretch"  Grid.Row="2" TextWrapping="Wrap" Text="password" VerticalAlignment="Top"  FontSize="24" Margin="5"/>
+            <TextBox x:Name="confirmpassword" HorizontalAlignment="Stretch"  Grid.Row="2" TextWrapping="Wrap" Text="confirm password" VerticalAlignment="Top"  FontSize="24" Margin="5" />
+            <Button Content="sign up" HorizontalAlignment="Right" Margin="5"/>
+        </StackPanel>
+
+    </Grid>
+</Page>

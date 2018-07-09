@@ -1,0 +1,9 @@
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef_repo_sqlite\bin\Debug\netcoreapp2.0\ef_repo_sqlite.deps.json
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef_repo_sqlite\bin\Debug\netcoreapp2.0\ef_repo_sqlite.dll
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef_repo_sqlite\obj\Debug\netcoreapp2.0\ef_repo_sqlite.csprojAssemblyReference.cache
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef_repo_sqlite\obj\Debug\netcoreapp2.0\ef_repo_sqlite.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef_repo_sqlite\obj\Debug\netcoreapp2.0\ef_repo_sqlite.AssemblyInfoInputs.cache
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef_repo_sqlite\obj\Debug\netcoreapp2.0\ef_repo_sqlite.AssemblyInfo.cs
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef_repo_sqlite\bin\Debug\netcoreapp2.0\ef_repo_sqlite.pdb
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef_repo_sqlite\obj\Debug\netcoreapp2.0\ef_repo_sqlite.dll
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef_repo_sqlite\obj\Debug\netcoreapp2.0\ef_repo_sqlite.pdb

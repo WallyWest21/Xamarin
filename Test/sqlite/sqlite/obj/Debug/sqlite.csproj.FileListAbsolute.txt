@@ -1,0 +1,1 @@
+C:\Users\Al\Dropbox\Programming\Xamarin\Test\sqlite\sqlite\bin\Debug\sqlite.exe.config

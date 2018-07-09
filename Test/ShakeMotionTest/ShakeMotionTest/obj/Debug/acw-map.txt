@@ -1,0 +1,4 @@
+ShakeMotionTest.MainActivity, ShakeMotionTest;md51a93943b9b4f630cc8b2ed10ce0a8246.MainActivity
+ShakeMotionTest.MainActivity, ShakeMotionTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51a93943b9b4f630cc8b2ed10ce0a8246.MainActivity
+ShakeMotionTest.MainActivity;md51a93943b9b4f630cc8b2ed10ce0a8246.MainActivity
+shakemotiontest.MainActivity;md51a93943b9b4f630cc8b2ed10ce0a8246.MainActivity

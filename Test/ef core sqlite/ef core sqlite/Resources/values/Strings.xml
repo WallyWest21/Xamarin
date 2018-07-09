@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ef_core_sqlite</string>
+    <string name="action_settings">Settings</string>
+</resources>

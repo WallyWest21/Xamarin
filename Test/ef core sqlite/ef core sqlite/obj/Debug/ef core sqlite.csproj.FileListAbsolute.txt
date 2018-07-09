@@ -1,0 +1,40 @@
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\bin\Debug\ef core sqlite.dll
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\bin\Debug\ef core sqlite.pdb
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\bin\Debug\ef_core_sqlite.ef_core_sqlite.apk
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\bin\Debug\ef_core_sqlite.ef_core_sqlite-Signed.apk
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\bin\Debug\ef_repo_sqlite_NET.dll
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\bin\Debug\ef_repo_sqlite_NET.pdb
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\ef core sqlite.csprojAssemblyReference.cache
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\ef core sqlite.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\ef core sqlite.csproj.CopyComplete
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\ef core sqlite.dll
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\ef core sqlite.pdb
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\android\bin\ef_core_sqlite.ef_core_sqlite.apk
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\layout\activity_main.xml
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\layout\content_main.xml
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\values\colors.xml
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\values\dimens.xml
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\values\ic_launcher_background.xml
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\values\strings.xml
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\values\styles.xml
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\menu\menu_main.xml
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\R.cs.flag
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\R.txt
+C:\Users\Skynet\Dropbox\Programming\Xamarin\Test\ef core sqlite\ef core sqlite\obj\Debug\uploadflags.txt

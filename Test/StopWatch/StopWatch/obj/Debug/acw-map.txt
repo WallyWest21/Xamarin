@@ -1,0 +1,8 @@
+StopWatch.MainActivity, StopWatch;md5ee35753ed767f25cd6c59061aea60266.MainActivity
+StopWatch.MainActivity, StopWatch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ee35753ed767f25cd6c59061aea60266.MainActivity
+StopWatch.MainActivity;md5ee35753ed767f25cd6c59061aea60266.MainActivity
+stopwatch.MainActivity;md5ee35753ed767f25cd6c59061aea60266.MainActivity
+RadialProgress.RadialProgressView, RadialProgress.Android;md565ae71dbe3b466a414b8046441055195.RadialProgressView
+RadialProgress.RadialProgressView, RadialProgress.Android, Version=1.0.1.0, Culture=neutral, PublicKeyToken=null;md565ae71dbe3b466a414b8046441055195.RadialProgressView
+RadialProgress.RadialProgressView;md565ae71dbe3b466a414b8046441055195.RadialProgressView
+radialprogress.RadialProgressView;md565ae71dbe3b466a414b8046441055195.RadialProgressView

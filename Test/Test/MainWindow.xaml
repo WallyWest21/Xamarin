@@ -1,0 +1,81 @@
+﻿<Window x:Class="Test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Test"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+
+        <DataTemplate x:Key="PeriodicElementTemplate">
+
+            <StackPanel Width="150" Height="150" Background="DarkGreen"   Margin="5" HorizontalAlignment="Left" VerticalAlignment="Top">
+
+                <Grid Height="150" Width="150">
+
+                    <Grid.RowDefinitions>
+
+                        <RowDefinition Height="27*"/>
+
+                        <RowDefinition Height="52*"/>
+
+                        <RowDefinition Height="29*"/>
+
+                        <RowDefinition Height="7*"/>
+
+                        <RowDefinition Height="35*"/>
+
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+
+                        <ColumnDefinition Width="13*"/>
+
+                        <ColumnDefinition Width="9*"/>
+
+                        <ColumnDefinition Width="8*"/>
+
+                    </Grid.ColumnDefinitions>
+
+                    <Label Content="1.0.1" Grid.Column="2" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Margin="1,2" Foreground="LightGray" Opacity="0.8" FontFamily="Segoe UI Light"  />
+
+                    <Label Content="{Binding Path=Name}" Grid.Row="1" Margin="5,1,1,1" Grid.RowSpan="1" FontSize="36" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Foreground="White" FontFamily="Segoe UI Semibold"/>
+
+                    <Label Content="BOM Export 2D" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Margin="5,1,1,1" Foreground="White" FontFamily="Segoe UI Light" />
+
+                    <TextBlock Text="This will export any 2D CATIA  table into Excel" Margin="5,2,2,2" Grid.Row="4" Grid.ColumnSpan="3" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Foreground="WhiteSmoke" FontSize="10" TextWrapping="Wrap" FontFamily="Segoe UI Light" />
+
+                    <Rectangle Grid.ColumnSpan="3" Grid.Column="0" Fill="LightGray" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Grid.Row="3" Stroke="White" StrokeThickness=".1" Margin="5,3" />
+
+                </Grid>
+
+            </StackPanel>
+
+        </DataTemplate>
+
+
+
+    </Window.Resources>
+
+    <Grid>
+
+        <ListBox Name="MyListBox" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Disabled" Height="Auto" Margin="0,0,17,0" BorderThickness="0" ItemTemplate="{StaticResource PeriodicElementTemplate}" >
+
+            <ListBox.ItemsPanel>
+
+                <ItemsPanelTemplate>
+
+                    <WrapPanel  Margin="0" />
+
+                </ItemsPanelTemplate>
+
+            </ListBox.ItemsPanel>
+
+
+
+        </ListBox>
+
+    </Grid>
+
+</Window>

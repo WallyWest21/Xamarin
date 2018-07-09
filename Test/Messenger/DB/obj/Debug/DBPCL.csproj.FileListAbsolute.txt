@@ -1,0 +1,5 @@
+C:\Users\Al\Dropbox\Programming\Xamarin\Test\Messenger\DB\bin\Debug\DB.dll.config
+C:\Users\Al\Dropbox\Programming\Xamarin\Test\Messenger\DB\bin\Debug\DB.dll
+C:\Users\Al\Dropbox\Programming\Xamarin\Test\Messenger\DB\bin\Debug\DB.pdb
+C:\Users\Al\Dropbox\Programming\Xamarin\Test\Messenger\DB\obj\Debug\DB.dll
+C:\Users\Al\Dropbox\Programming\Xamarin\Test\Messenger\DB\obj\Debug\DB.pdb

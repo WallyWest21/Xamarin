@@ -1,0 +1,2 @@
+android.app.Application
+Sexy8Ball_AndroidWear.Sexy8Ball_AndroidWear
